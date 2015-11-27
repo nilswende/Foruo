@@ -3,7 +3,6 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="fill_parent"
@@ -14,23 +13,20 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Export to Gallery"
-            android:id="@+id/button"
+            android:id="@+id/exportButton"
             android:layout_weight="1"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Send Per Mail"
-            android:id="@+id/button1"
+            android:id="@+id/sendButton"
             android:layout_weight="1"/>
     </LinearLayout>
-
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/Bild"
+        android:id="@+id/pic"
          />
-
-
 
 </LinearLayout>
