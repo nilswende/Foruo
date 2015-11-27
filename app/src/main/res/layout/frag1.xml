@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Created By:"
+        android:text="@string/createdByText"
         android:id="@+id/textView2"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
@@ -39,7 +39,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="Copyright @2015"
+        android:text="Copyright ©2015"
         android:id="@+id/textView5"
         android:layout_below="@+id/textView2"
         android:layout_alignStart="@+id/textView3" />

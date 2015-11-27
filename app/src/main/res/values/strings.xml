@@ -2,19 +2,20 @@
     <string name="app_name">FotoUP</string>
 
     <string name="title_section1">Main</string>
-    <string name="title_section2">Galerie</string>
-    <string name="title_section3">Load from galery</string>
-
-
+    <string name="title_section2">Gallery</string>
+    <string name="title_section3">Load from gallery</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="title_activity_pic_loaded">Close navigation drawer</string>
+    <string name="title_activity_pic_loaded">Fullsize Picture</string>
 
-    <string name="action_example">Take photo</string>
+    <string name="takePhotoText">Take photo</string>
 
-    <string name="action_settings">Settings</string>
-
-<!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exportText">Export to Gallery</string>
+    <string name="sendText">Send Per Mail</string>
+    <string name="startImportText">Choose Pic</string>
+    <string name="importText">Import</string>
+    <string name="cancelText">Cancel</string>
+    <string name="linLayoutText">Pic</string>
+    <string name="createdByText">Created By:</string>
 </resources>

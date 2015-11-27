@@ -12,13 +12,13 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Export to Gallery"
+            android:text="@string/exportText"
             android:id="@+id/exportButton"
             android:layout_weight="1"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Send Per Mail"
+            android:text="@string/sendText"
             android:id="@+id/sendButton"
             android:layout_weight="1"/>
     </LinearLayout>

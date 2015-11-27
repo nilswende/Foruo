@@ -19,21 +19,21 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Choose Pic"
+            android:text="@string/startImportText"
             android:id="@+id/StartImport"
             android:layout_weight="2"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Import"
+            android:text="@string/importText"
             android:id="@+id/Import"
             android:layout_weight="1"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Cancel"
+            android:text="@string/cancelText"
             android:id="@+id/Cancel"
             android:layout_weight="1"/>
     </LinearLayout>
@@ -42,7 +42,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:id="@+id/imgV"
-        android:contentDescription="Pic"
+        android:contentDescription="@string/linLayoutText"
         android:layout_below="@+id/LinLay"
         android:layout_alignParentStart="true" />
 
