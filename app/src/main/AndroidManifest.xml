@@ -31,14 +31,6 @@
             </intent-filter>
         </activity>
 
-        <fragment
-            android:name=".LoadFromGalery"
-            >
-
-
-        </fragment>
-
-
     </application>
 
 </manifest>
