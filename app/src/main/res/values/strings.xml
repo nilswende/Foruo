@@ -12,8 +12,8 @@
     <string name="takePhotoText">Take photo</string>
 
     <string name="exportText">Export to Gallery</string>
-    <string name="sendText">Send Per Mail</string>
-    <string name="startImportText">Choose Pic</string>
+    <string name="sendText">Send via mail</string>
+    <string name="startImportText">Choose pic</string>
     <string name="importText">Import</string>
     <string name="cancelText">Cancel</string>
     <string name="linLayoutText">Pic</string>
